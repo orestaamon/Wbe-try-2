@@ -26,6 +26,5 @@
 
 
 [def]: https://orestaamon.github.io/Wbe-try-2/
----
 
 [License]:(https://img.shields.io/github/license/orestaamon/Wbe-try-2)
