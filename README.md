@@ -6,7 +6,8 @@
 ## For å se nettsiden live: 
 [Her][def]
 
-## [License:][License]
+## License:
+[License:][License]
 ## Teknlogie som ble brukt:
 - *HTML*
 - *CSS*
