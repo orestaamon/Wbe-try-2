@@ -7,7 +7,7 @@
 [Her][def]
 
 ## License:
-[License:](https://img.shields.io/github/license/orestaamon/Wbe-try-2)
+[License](https://img.shields.io/github/license/orestaamon/Wbe-try-2)
 ## Teknlogie som ble brukt:
 - *HTML*
 - *CSS*
