@@ -13,7 +13,7 @@
 - *CSS*
 - *JavaScript*
 
-## Sider i nettsiden er: 
+## Sider i nettsiden er:
 1. Home
 2. AboutMe
 3. Hobbyer
