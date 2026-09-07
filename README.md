@@ -6,6 +6,7 @@
 ## For å se nettsiden live: 
 [Her][def]
 
+## [License:][License]
 ## Teknlogie som ble brukt:
 - *HTML*
 - *CSS*
@@ -25,3 +26,6 @@
 
 
 [def]: https://orestaamon.github.io/Wbe-try-2/
+---
+
+[License]:(https://img.shields.io/github/license/orestaamon/Wbe-try-2)
